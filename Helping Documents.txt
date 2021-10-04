@@ -4,3 +4,5 @@ https://towardsdatascience.com/upload-your-pandas-dataframe-to-your-database-10x
 https://www.youtube.com/watch?v=SHYekvfx8C4
 https://stackoverflow.com/questions/18202609/quoted-separator-cursor-copy-from-in-python
 https://learnsql.com/blog/how-to-import-csv-to-postgresql/
+https://docs.sqlalchemy.org/en/14/core/engines.html
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_sql.html
